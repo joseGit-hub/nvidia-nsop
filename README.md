@@ -28,3 +28,6 @@ NVIDIA Long-Term Stock Outlook (NSOP) serves as an analytical framework for inve
 #### C. Dual-Currency Visualization
 * **Custom Dark Theme:** Renders high-resolution, publication-ready visualizations featuring historical price action alongside projected outlooks.
 * **Multi-Axis Scaling:** Features synchronous secondary Y-axis tracking for direct USD to PHP conversions based on set exchange rate baselines.
+
+#### Data Reference
+* https://www.kaggle.com/datasets/alitaqishah/nvidia-stock-data-19992026-the-ai-mega-stock
