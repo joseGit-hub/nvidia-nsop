@@ -18,7 +18,7 @@ NVIDIA Long-Term Stock Outlook (NSOP) serves as an analytical framework for inve
 ### Key Features
 
 #### A. Data Pipeline & Preprocessing
-* **Robust Cleaning:** Automatically parses historical CSV data (1999–2026), standardizes column formats, and handles missing or erroneous data points.
+* **Robust Cleaning:** Automatically parses historical CSV data (1999–2026) (Kaggle Data), standardizes column formats, and handles missing or erroneous data points.
 * **Return Normalization:** Calculates percentage returns and scales data using MinMaxScaler within the $[-1, 1]$ range for optimal neural network convergence.
 
 #### B. Deep Learning Architecture
