@@ -1,4 +1,4 @@
-# NVIDIA - Long-Term Stock Outlook (NSOP)
+# NVIDIA - Long-Term Stock Outlook Prediction (NSOP)
 
 <img width="1497" height="841" alt="image" src="https://github.com/user-attachments/assets/e604d0b7-8ef7-4ff6-bd34-edc7cc819938" />
 
